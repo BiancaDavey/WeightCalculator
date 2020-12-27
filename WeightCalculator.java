@@ -1,4 +1,3 @@
-// Import scanner for user input.
 import java.util.Scanner;  
 
 /** 
