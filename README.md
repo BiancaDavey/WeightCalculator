@@ -16,7 +16,7 @@ Java is required to run this program.
 ## Usage
 
 1. Compile with the command `javac WeightCalculator.java`.
-2. Run the program wiht the command `java WeightCalculator`.
+2. Run the program with the command `java WeightCalculator`.
 3. Input the number of bags as prompted.
 4. Input the number of items as prompted.
 5. Input the weight of each item as prompted.
