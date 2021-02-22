@@ -11,7 +11,7 @@ public class WeightCalculator {
         int numItems;  // Variable to hold number of items in a given bag.
         double weight;  // Variable to hold the weight of each item.
         double totalWeight = 0;  // Accumulator to hold overall weight of item.
-        int totalNumItems = 0;  // Accumulator to hold total number of item.
+        int totalNumItems = 0;  // Accumulator to hold total number of items.
         double minWeight = Double.MAX_VALUE;  // Variable to hold the minimum weight, initialised at the maximum value of a double.
         double maxWeight = 0;  // Variable to hold the maximum weight.
         double average = 0;  // Variable to hold the overall average weight.
