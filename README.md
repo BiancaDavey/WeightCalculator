@@ -32,4 +32,4 @@ java WeightCalculator
 
 Bianca Davey
 
-biancamdavey@icloud.com
+biancamdavey91@gmail.com
